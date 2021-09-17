@@ -25,6 +25,7 @@ Steps For Run Project On Your Local Machine.
 4. Copy and Paste this project folder to following Path
 5. C->xampp->htdocs
 6. Add Your Email and Password on line 33 and 34 in index.php file.
+7. Extract the smtp.zip
 
 ###
 
