@@ -8,7 +8,7 @@ This Project take Info about User through Registration Form and Stored this Info
 
 
 ###
-Essential Gamail Setting Steps:
+Essential Gmail Setting Steps:
 1.Go to setting of your gmail.
 2.Go to Forwarding and POP/IMAP Setting Pannel.
 3. Enable IMAP Option.
